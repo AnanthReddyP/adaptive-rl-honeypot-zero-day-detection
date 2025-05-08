@@ -63,6 +63,15 @@ python src/evaluate_agent.py
 - RL agent maintained preferred state stability with ~70% action consistency
 - Demonstrated capability to adapt to novel attacker behavior in real time
 
+
+---
+
+## 👥 Team Members
+
+- Anantha Reddy Pingili – RL Agent Development & Integration
+- Sai Sumanth Koppolu – Honeypot Environment Design & System Evaluation
+
+
 ---
 
 ## 📜 License
